@@ -1,0 +1,6 @@
+C:\Users\S3H3ND\Desktop\c# proje\proje19\proje19\bin\Debug\proje19.exe.config
+C:\Users\S3H3ND\Desktop\c# proje\proje19\proje19\bin\Debug\proje19.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje19\proje19\bin\Debug\proje19.pdb
+C:\Users\S3H3ND\Desktop\c# proje\proje19\proje19\obj\Debug\proje19.csprojResolveAssemblyReference.cache
+C:\Users\S3H3ND\Desktop\c# proje\proje19\proje19\obj\Debug\proje19.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje19\proje19\obj\Debug\proje19.pdb

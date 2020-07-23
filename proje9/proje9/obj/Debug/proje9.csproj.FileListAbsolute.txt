@@ -1,0 +1,6 @@
+C:\Users\S3H3ND\Desktop\c# proje\proje9\proje9\bin\Debug\proje9.exe.config
+C:\Users\S3H3ND\Desktop\c# proje\proje9\proje9\bin\Debug\proje9.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje9\proje9\bin\Debug\proje9.pdb
+C:\Users\S3H3ND\Desktop\c# proje\proje9\proje9\obj\Debug\proje9.csprojResolveAssemblyReference.cache
+C:\Users\S3H3ND\Desktop\c# proje\proje9\proje9\obj\Debug\proje9.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje9\proje9\obj\Debug\proje9.pdb

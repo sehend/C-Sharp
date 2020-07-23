@@ -1,0 +1,10 @@
+c:\users\s3h3nd\documents\visual studio 2015\Projects\proje13\proje13\bin\Debug\proje13.exe.config
+c:\users\s3h3nd\documents\visual studio 2015\Projects\proje13\proje13\bin\Debug\proje13.exe
+c:\users\s3h3nd\documents\visual studio 2015\Projects\proje13\proje13\bin\Debug\proje13.pdb
+c:\users\s3h3nd\documents\visual studio 2015\Projects\proje13\proje13\obj\Debug\proje13.csprojResolveAssemblyReference.cache
+c:\users\s3h3nd\documents\visual studio 2015\Projects\proje13\proje13\obj\Debug\proje13.exe
+c:\users\s3h3nd\documents\visual studio 2015\Projects\proje13\proje13\obj\Debug\proje13.pdb
+C:\Users\S3H3ND\Desktop\c# proje\proje13\proje13\bin\Debug\proje13.exe.config
+C:\Users\S3H3ND\Desktop\c# proje\proje13\proje13\obj\Debug\proje13.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje13\proje13\obj\Debug\proje13.pdb
+C:\Users\S3H3ND\Desktop\c# proje\proje13\proje13\obj\Debug\proje13.csprojResolveAssemblyReference.cache

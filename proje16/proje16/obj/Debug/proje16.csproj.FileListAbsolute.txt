@@ -1,0 +1,6 @@
+C:\Users\S3H3ND\Desktop\c# proje\proje16\proje16\bin\Debug\proje16.exe.config
+C:\Users\S3H3ND\Desktop\c# proje\proje16\proje16\obj\Debug\proje16.csprojResolveAssemblyReference.cache
+C:\Users\S3H3ND\Desktop\c# proje\proje16\proje16\bin\Debug\proje16.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje16\proje16\bin\Debug\proje16.pdb
+C:\Users\S3H3ND\Desktop\c# proje\proje16\proje16\obj\Debug\proje16.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje16\proje16\obj\Debug\proje16.pdb

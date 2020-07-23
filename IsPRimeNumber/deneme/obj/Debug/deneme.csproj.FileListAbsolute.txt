@@ -1,0 +1,9 @@
+C:\Users\S3H3ND\Desktop\c# proje\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\S3H3ND\Desktop\c# proje\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\S3H3ND\Desktop\c# proje\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\S3H3ND\Desktop\c# proje\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\S3H3ND\Desktop\c# proje\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\S3H3ND\Desktop\c# proje\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\S3H3ND\Desktop\c# proje\IsPRimeNumber\deneme\bin\Debug\deneme.exe.config
+C:\Users\S3H3ND\Desktop\c# proje\IsPRimeNumber\deneme\obj\Debug\deneme.exe
+C:\Users\S3H3ND\Desktop\c# proje\IsPRimeNumber\deneme\obj\Debug\deneme.pdb

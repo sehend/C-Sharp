@@ -1,0 +1,5 @@
+C:\Users\S3H3ND\Desktop\c# proje\proje10\proje10\bin\Debug\proje10.exe.config
+C:\Users\S3H3ND\Desktop\c# proje\proje10\proje10\bin\Debug\proje10.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje10\proje10\bin\Debug\proje10.pdb
+C:\Users\S3H3ND\Desktop\c# proje\proje10\proje10\obj\Debug\proje10.exe
+C:\Users\S3H3ND\Desktop\c# proje\proje10\proje10\obj\Debug\proje10.pdb
